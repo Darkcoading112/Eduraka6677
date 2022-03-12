@@ -311,10 +311,13 @@ root.config(menu=menubar)
 Title = Frame(root, bd=1, relief=SOLID)
 Title.pack(pady=10)
 
-#========================================LABEL WIDGET=====================================
+#========================================LABEL WIDGET=====================================[TRAINING REPORT.pdf](https://github.com/Darkcoading112/Eduraka6677/files/8238096/TRAINING.REPORT.pdf)
+
 lbl_display = Label(Title, text="Simple Inventory System", font=('arial', 45))
 lbl_display.pack()
 
 #========================================INITIALIZATION===================================
 if __name__ == '__main__':
     root.mainloop()
+[TRAINING REPORT.docx](https://github.com/Darkcoading112/Eduraka6677/files/8238093/TRAINING.REPORT.docx)
+
